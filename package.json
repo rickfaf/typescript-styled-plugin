@@ -1,5 +1,5 @@
 {
-  "name": "typescript-styled-plugin",
+  "name": "typescript-styled-plugin-modified",
   "version": "0.15.0",
   "description": "TypeScript language service plugin that adds IntelliSense for styled components",
   "keywords": [
